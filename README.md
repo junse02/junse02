@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  
+# 안녕하세요!  저는 성준서입니다.
+ 
+#### 동국대학교 컴퓨터AI학부
 
-<!--
-**junse02/junse02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+ 
+</div>
+ 
+## 🙋‍♂️ About Me
+ 
+- 💬 관심 분야: **웹 개발, 클라우드 컴퓨팅**
+- 📫 연락처: **juanxe0217@gmail.com**
+- ⚡ 취미: **축구, 게임**
+ 
+## 📫 Contact Me
+ 
+- 📧 Email: juanxe0217@gmail.com
+- 🌐 Blog: [링크](https://junse0.tistory.com/)
+---
+ 
+<div align="center">
+⭐️ 방문해 주셔서 감사합니다!
+ 
+</div>
